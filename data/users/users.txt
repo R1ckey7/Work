@@ -1,0 +1,3 @@
+# User Login Information File
+# Format: username:password
+# Note: Passwords should be encrypted in actual projects
